@@ -5,16 +5,17 @@
     <name>APIKeyDialog</name>
     <message>
         <source>Youtube API Key</source>
-        <translation type="unfinished">Clave API de Youtube</translation>
+        <translation>Clave API de Youtube</translation>
     </message>
     <message>
         <source>API Key</source>
-        <translation type="unfinished">Clave API</translation>
+        <translation>Clave API</translation>
     </message>
     <message>
         <source>Youtube API key is required to run this application.
 To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&quot;&gt;https://console.cloud.google.com&lt;/a&gt; and get &quot;YouTube Data API v3&quot; API key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es necesaria una clave API de Youtube para ejecutar esta aplicación.
+Para obtener la clave API de Youtube ve a &lt;a href=&quot;https://console.cloud.google.com&quot;&gt;https://console.cloud.google.com&lt;/a&gt; y solicita una clave &quot;YouTube Data API v3&quot;.</translation>
     </message>
 </context>
 <context>
@@ -69,34 +70,34 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     </message>
     <message>
         <source>SponsorBlock plugin from &lt;br/&gt;&lt;a href=&quot;https://sponsor.ajay.app&quot;&gt;https://sponsor.ajay.app&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Complemento SponsorBlock de &lt;br/&gt;&lt;a href=&quot;https://sponsor.ajay.app&quot;&gt;https://sponsor.ajay.app&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>CategoriesModel</name>
     <message>
         <source>Most Popular</source>
-        <translation type="unfinished"></translation>
+        <translation>Más popular</translation>
     </message>
     <message>
         <source>Trending</source>
-        <translation type="unfinished"></translation>
+        <translation>Tendencias</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Música</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Noticias</translation>
     </message>
     <message>
         <source>Movies</source>
-        <translation type="unfinished"></translation>
+        <translation>Películas</translation>
     </message>
     <message>
         <source>Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Videojuegos</translation>
     </message>
 </context>
 <context>
@@ -193,6 +194,49 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
         <source>%1 subscribers</source>
         <translation>%1 suscriptores</translation>
     </message>
+    <message>
+        <source>Just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s) ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n week(s) ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n month(s) ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n year(s) ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>%1 views</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Filters</name>
@@ -277,11 +321,11 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     </message>
     <message>
         <source>Updated Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducciones actualizadas</translation>
     </message>
     <message>
         <source>Full screen video in cover on landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla completa del vídeo en la cubierta en el modo apaisado</translation>
     </message>
 </context>
 <context>
@@ -370,7 +414,7 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     </message>
     <message>
         <source>SponsorBlock Plugin Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de SponsorBlock</translation>
     </message>
 </context>
 <context>
@@ -384,43 +428,43 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     <name>SponsorBlockSettings</name>
     <message>
         <source>SponsorBlock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de SponsorBlock</translation>
     </message>
     <message>
         <source>Enable SponsorBlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar SponsorBlock</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorías</translation>
     </message>
     <message>
         <source>Sponsors</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrocinadores</translation>
     </message>
     <message>
         <source>Intermission/Intro Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Intermisión/Intro animación</translation>
     </message>
     <message>
         <source>Endcards/Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantallas finales/Créditos</translation>
     </message>
     <message>
         <source>Interaction Reminder (Subscribe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatorio de interacción (Suscribir)</translation>
     </message>
     <message>
         <source>Unpaid/Self Promotion</source>
-        <translation type="unfinished"></translation>
+        <translation>No remunerado/Autopromoción</translation>
     </message>
     <message>
         <source>Music: Non-Music Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Música: sección sin música</translation>
     </message>
     <message>
         <source>Uses SponsorBlock plugin from https://sponsor.ajay.app</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa el complemento SponsorBlock de https://sponsor.ajay.app</translation>
     </message>
 </context>
 <context>
@@ -485,11 +529,11 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     </message>
     <message>
         <source>Updated Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducciones actualizadas</translation>
     </message>
     <message>
         <source>Full screen video in cover on landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla completa del vídeo en la cubierta en el modo apaisado</translation>
     </message>
 </context>
 <context>
@@ -560,6 +604,208 @@ To get Youtube API key go to &lt;a href=&quot;https://console.cloud.google.com&q
     <message>
         <source>Load recommended videos</source>
         <translation>Cargar vídeos recomendados</translation>
+    </message>
+</context>
+<context>
+    <name>YTJSVideo</name>
+    <message>
+        <source>Cannot get video stream for %1</source>
+        <translation type="unfinished">No es posible obtener transmisión de vídeo %1</translation>
+    </message>
+</context>
+<context>
+    <name>YTRegions</name>
+    <message>
+        <source>Algeria</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argentina</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Australia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Belgium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brazil</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canada</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colombia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Czech Republic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Egypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>France</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Germany</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ghana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greece</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hong Kong</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>India</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ireland</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Israel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jordan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kenya</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malaysia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mexico</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Morocco</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Netherlands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Zealand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nigeria</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Philippines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poland</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saudi Arabia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Singapore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>South Africa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>South Korea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sweden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Taiwan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tunisia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uganda</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>United Arab Emirates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>United Kingdom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yemen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Worldwide</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
